@@ -59,7 +59,7 @@ public class Client {
 		
 		
 			//LOGIN
-			send("NAME PW" );
+			send("NAME" );
 			
 
 			String line;
